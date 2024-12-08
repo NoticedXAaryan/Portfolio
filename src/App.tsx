@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import floating from "@/components/ui"
+import floating from "@/components/ui/floating"
 
 function App() {
   const [count, setCount] = useState(0)
